@@ -178,3 +178,4 @@ if __name__ == "__main__":
 
     for chunk_file in chunk_files:
         process_chunk(chunk_file)
+print("hallo")
